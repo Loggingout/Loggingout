@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Loggingout
-- 👀 I’m interested in computer science. 
+- 👀 I’m interested in computer programming & hacking. 
 - 🌱 I’m currently learning SQL, HTML, & I've been learning more about hacking networks(TryHackMe, HackTheBox).
 - 💞️ I’m looking to collaborate on small projects. still an intermediate. 
 - 📫 How to reach me: Email, or Phone
