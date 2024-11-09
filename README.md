@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Loggingout
-- 👀 I’m interested in Computer Programming & Cyber Security.  
-- 🌱 I’m currently learning Angular, Flask & I've been learning more about hacking networks(TryHackMe, HackTheBox).
-- 💞️ I’m looking to collaborate on small projects. still an intermediate. 
-- 📫 How to reach me: black.haven613@gmail.com
+- 👀 I’m interested in all things computers from hardware, programming, problem-solving,cyber-security.  
+- 🌱 I’m currently learning Angular, Flask, other front-end frame-works.
+- 💞️ I’m looking to collaborate on web-dev projects & tool creation. 
+- 📫 How to reach me: error.attemptfailed@proton.me
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I'm a rad pool player ! 
 
